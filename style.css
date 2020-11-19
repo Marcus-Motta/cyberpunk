@@ -1,0 +1,71 @@
+body {
+
+background: black;}
+
+#title, subtitle, start, texto, final, imagem {
+
+text-align: center;
+
+color: blue;
+
+}
+
+.start {
+
+font-size: 24px;
+
+text-align: center;
+
+color: blue;
+
+text-transform: uppercase;
+
+margin-left: auto;}
+
+
+.subtitle {
+
+font-size: 78px;
+
+text-align: center;
+
+color: red;
+
+margin: 0px;
+
+margin-bottom: 70px;
+}
+
+
+
+.texto {
+
+text-align: center;
+
+margin: auto;
+
+color: white;
+
+font-size: 24px;
+
+border: 3px solid black;
+
+border-radius: 10px;
+}
+
+.final {
+  text-align: center;
+  font-size: 24px;
+}
+
+.imagem{
+margin-left: 350px;
+margin-right: auto;
+border-radius: 90px;
+
+}
+
+
+.contact-list{
+  list-style-type: none;
+}
